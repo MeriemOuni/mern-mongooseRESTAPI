@@ -1,0 +1,25 @@
+{
+  "name": "mongooose-restapi",
+  "version": "1.0.0",
+  "description": "checkpoint mongoose & restapi",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "expess",
+    "mongodb",
+    "mongoose"
+  ],
+  "author": "meriem",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.8.1"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.1.7"
+  }
+}
